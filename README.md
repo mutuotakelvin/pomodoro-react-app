@@ -1,17 +1,17 @@
 
-# React Pomodoro Timer
+# React Pomodoro App
 
-## :sparkles: Features ##
+##Features ##
 
-:heavy_check_mark:&nbsp; Use of React hooks and custom hooks<br/>
-:heavy_check_mark:&nbsp; Use of React Context API<br/>
-:heavy_check_mark:&nbsp; Counter state & timer in browser tab name<br/>
-:heavy_check_mark:&nbsp; Audio notification when timer ends<br/>
-:heavy_check_mark:&nbsp; Theme switcher (light/dark mode)<br/>
-:heavy_check_mark:&nbsp; Gets theme preference from local storage<br/>
-:heavy_check_mark:&nbsp; Responsive site
+- Use of React hooks and custom hooks<br/>
+- Use of React Context API<br/>
+- Counter state & timer in browser tab name<br/>
+- Audio notification when timer ends<br/>
+- Theme switcher (light/dark mode)<br/>
+- Gets theme preference from local storage<br/>
+- Responsive site
 
-## :rocket: Technologies ##
+## Technologies
 
 - [React](https://reactjs.org/)
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
